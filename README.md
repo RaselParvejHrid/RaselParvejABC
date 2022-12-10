@@ -1,17 +1,10 @@
-<style> @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap');
-
-h1, div, li {
-    font-family: 'Space Grotesk', sans-serif;
-}
-</style>
-
 <img src="images/banner.png" style="display: block; margin-left: auto; margin-right: auto;">
 
 <h1>Reach Me Out</h1>
 <div style="display: flex; justify-content: center; height: 70px; gap: 30px;">
-    <a href="https://www.linkedin.com/in/raselparvej"><img src="images/linkedin.png"></a>
-    <a href="https://wa.me/8801993185353"><img src="images/whatsapp.png"></a>
-    <a href="https://t.me/RaselParvejABC"><img src="images/telegram.png"></a>
+    <a href="https://www.linkedin.com/in/raselparvej"><img src="images/linkedin.png" height="70"></a>
+    <a href="https://wa.me/8801993185353"><img src="images/whatsapp.png" height="70"></a>
+    <a href="https://t.me/RaselParvejABC"><img src="images/telegram.png" height="70"></a>
 </div>
 
 <h1>Current Overview</h1>
